@@ -2,7 +2,7 @@
 
 ## 👋 Acerca de Mí
 
-Soy un estudiante de la Institución Universitaria Pascual Bravo, cursando una tecnología en desarrollo de software.
+Estudiante en la Corporación Universitaria Remington (Uniremington), cursando la Tecnología en Desarrollo de Software.
 
 ## 🔧 Tecnologías y Herramientas
 
